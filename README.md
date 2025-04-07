@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**nurmuhammad-11/nurmuhammad-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧠 About Me:
+👨‍💻 I’m currently studying and working as a Python/Django developer
+🌐 I love learning FastAPI, SQL, Rust, and Cybersecurity
+🧩 Always curious about how things work under the hood
+🎯 My goal is to work in high-level positions and earn big 🤑
+🎮 Gamer in free time, tech researcher at heart
+🛠️ My Skills:
+Languages & Tools:
+         
 
-Here are some ideas to get you started:
+📈 GitHub Stats
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔥 My Favorite Tools
+     
