@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Nurmuhammad</span></h1>
-<h3 align="center">💻 Junior Developer | 💡 Tech Enthusiast | 🌍 Tashkent, Uzbekistan</h3>
+<h3 align="center">💻Junior Python Developer| 💡 Tech Enthusiast | 🌍 Tashkent, Uzbekistan</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
