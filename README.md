@@ -41,24 +41,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammad-11&theme=github-dark-blue" width="430"/>
 </p>
 
----
-
-### 🔥 My Favorite Tools
-
-<p align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="150"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="150"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="150"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="150"/>
-</p>
-
-
-
-
-
----
 
 ### 🌍 Let's Connect!
 <p align="left">
