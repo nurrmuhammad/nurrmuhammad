@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#58A6FF">Nurmuhammad</span></h1>
-<h3 align="center">💻 Python Backend Developer | ⚙️ FastAPI Enthusiast | 🌐 Tashkent, Uzbekistan</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Nurmuhammad</span></h1>
+<h3 align="center">💻 Python Backend Developer | ⚙️ Cyber Dev | 🌍 Tashkent, Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ3OTJ1eTYwYTRtazR2ejZzY21oaGlubjVxZHg0N3VldnNsbTltdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300">
 </p>
 
 ---
