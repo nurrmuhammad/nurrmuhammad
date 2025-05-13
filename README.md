@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nurmuhammad</h1>
 <h3 align="center">A passionate Python backend developer from Uzbekistan</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ3OTJ1eTYwYTRtazR2ejZzY21oaGlubjVxZHg0N3VldnNsbTltdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+</p>
+
 ---
 
 ### 🏆 GitHub Achievements
@@ -51,4 +55,3 @@
 ---
 
 > 💬 “The best way to grow as a developer is to build every single day.”
-
