@@ -36,8 +36,9 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammad-11&show_icons=true&theme=github_dark" width="450"/>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammad-11&theme=github-dark-blue](https://delicate-puppy-659598.netlify.app/)" width="430"/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue"/>
+
 </p>
 
 ---
