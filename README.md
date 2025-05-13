@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Nurmuhammad</span></h1>
-<h3 align="center">💻 Junior Python Developer | 💡 Tech Explorer | 🌍 Based in Tashkent, Uzbekistan</h3>
+<h3 align="center">💻 Python Developer | ⚙️ Backend Engineer (in progress) | 🌍 Based in Tashkent, Uzbekistan</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ3OTJ1eTYwYTRtazR2ejZzY21oaGlubjVxZHg0N3VldnNsbTltdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
@@ -7,16 +7,16 @@
 
 ---
 
-### 🧠 Who Am I?
-- 👨‍💻 Passionate about building **efficient backend systems** with Python & Django  
-- 🌐 Exploring technologies like **FastAPI**, **SQL**, **Rust**, and diving into **Cybersecurity**  
-- 🧠 Problem-solver by nature, always chasing the **"why"** behind things  
-- 🚀 Dreaming big — aiming for impact, innovation, and influence  
-- 🎮 Off-code: Gamer, tech content lover, and digital minimalist  
+### 🚀 Who Am I?
+- 🧑‍💻 A backend-focused developer building with **Python**, **Django**, and **FastAPI**
+- 🧠 Always learning — from **SQL** optimization to **Rust** performance
+- 🔐 Interested in **Cybersecurity** and ethical hacking
+- 🎯 Strong believer in building things that scale and make life easier
+- 🎮 Gamer at night, developer all day
 
 ---
 
-### 🛠️ Tools & Technologies I Use:
+### 💡 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammad-11&show_icons=true&theme=github_dark" width="450"/>
@@ -42,12 +42,16 @@
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let’s Network
 <p align="left">
-  <a href="https://t.me/nur04_17" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:nurmuhammadov.nurik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/nur04_17" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:nurmuhammadov.nurik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-> 💬 “The best way to predict the future is to invent it.” — Alan Kay
+> 💬 *"Stay curious. Stay focused. The future belongs to those who build it."*
