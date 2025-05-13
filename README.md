@@ -1,8 +1,8 @@
-<h1 align="center">Iron Dev Mode: ON 🦾</h1>
-<h3 align="center">💻 Django/FastAPI Builder | 👨‍💻 Innovating Like Stark | ⚡️ Clean Code Evangelist</h3>
+<h1 align="center">🚀 Welcome to my Launchpad</h1>
+<h3 align="center">🔥 Python | FastAPI | Tech Explorer | 🚀 Shooting for Scalable Solutions</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300">
 </p>
 
 
