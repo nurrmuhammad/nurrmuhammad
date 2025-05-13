@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Nurmuhammad</span></h1>
-<h3 align="center">💻 Python + FastAPI Developer | 🌐 Building Scalable Backends</h3>
+<h1 align="center">Welcome, Visitor 🔍</h1>
+<h3 align="center">🖥️ Pythonist | 🔐 Cybersecurity Explorer | 🌑 Dark Theme Forever</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300">
 </p>
 
 
