@@ -1,14 +1,15 @@
 ---
-<h1 align="center">Hi 👋, I'm Nurmuhammad</h1>
-<h3 align="center">Backend Developer | Python | Uzbekistan 🇺🇿</h3>
+<h1 align="center">Nurmuhammad</h1>
+<h3 align="center">Backend Developer · Python · Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=4ABDAC&center=true&vCenter=true&width=500&lines=Writing+clean+backend+code...;Lover+of+FastAPI,+Django+and+Automation;Always+learning,+always+iterating." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Backend+craftsman+who+loves+clarity+and+structure;FastAPI+%7C+Django+%7C+PostgreSQL;Code.+Clean.+Test.+Repeat." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="320" alt="minimal coding gif" />
+  <img src="https://media.giphy.com/media/hp3dmEydox3wE/giphy.gif" width="400" alt="quiet coding developer gif" />
 </p>
+
 
 
 
