@@ -1,13 +1,14 @@
-<h1 align="center">Hey, I'm <span style="color:#00ffc8;">Nurmuhammad</span></h1>
-<h3 align="center">Backend Developer • Python • FastAPI • Django</h3>
+<h1 align="center">Nurmuhammad</h1>
+<h3 align="center">🛠 Backend Developer · Python · FastAPI · Django</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=Writing+logic+in+silence...;FastAPI+%7C+Django+%7C+PostgreSQL;Minimal+talk,+maximum+execution.;Clean+Code+or+No+Code." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Silent+but+Deadly+Code...;Think+in+Logic%2C+Build+in+Silence.;Clean+Code+or+No+Code.;Zero+Noise%2C+Full+Execution." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" height="260" alt="hacker dark coder gif"/>
+  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJWc/giphy.gif" width="480" height="280" alt="hacker terminal gif" />
 </p>
+
 
 ---
 
