@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python backend developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ3OTJ1eTYwYTRtazR2ejZzY21oaGlubjVxZHg0N3VldnNsbTltdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=I+build+backend+with+Python;Always+learning%2C+always+improving;Clean+Code+%7C+FastAPI+%7C+Django+%7C+Aiogram" />
 </p>
 
 ---
