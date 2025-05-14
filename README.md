@@ -1,14 +1,15 @@
 ---
-<h1 align="center">👋 Assalomu alaykum, I'm <span style="color:#38BDF8;"><strong>Nurmuhammad</strong></span></h1>
-<h3 align="center">💻 Python Backend Developer | Django, FastAPI, Aiogram | Uzbekistan 🇺🇿</h3>
+<h1 align="center">Hi 👋, I'm Nurmuhammad</h1>
+<h3 align="center">Backend Developer | Python | Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+from+Uzbekistan;Clean+Architecture+Fan+%F0%9F%93%9A;FastAPI+%7C+Django+%7C+Aiogram+%7C+PostgreSQL;Build%2C+Break%2C+Fix%2C+Learn%2C+Repeat+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=4ABDAC&center=true&vCenter=true&width=500&lines=Writing+clean+backend+code...;Lover+of+FastAPI,+Django+and+Automation;Always+learning,+always+iterating." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" height="270" alt="coding developer gif" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="320" alt="minimal coding gif" />
 </p>
+
 
 
 ### 🐍 GitHub Contribution Snake
