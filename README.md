@@ -1,12 +1,12 @@
 <h1 align="center">Nurmuhammad</h1>
-<h3 align="center">🛠 Backend Developer · Python · FastAPI · Django</h3>
+<h3 align="center">🧠 Backend Developer · Python · Django · FastAPI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Silent+code.+Stable+systems.;FastAPI+%7C+Django+%7C+PostgreSQL.;Minimal+words,+maximum+execution.;Clean+Code+or+No+Code." />
+  <img src="https://raw.githubusercontent.com/nurrmuhammad/nurrmuhammad/main/assets/hacker-banner.gif" width="480" height="280" alt="custom hacker vibe banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJWc/giphy.gif" width="480" height="270" alt="hacker dark terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFBF&center=true&vCenter=true&width=700&lines=Writing+code+in+silence...;Structured.+Minimal.+Secure.;Clean+Code+or+No+Code.;chmod+%2Bx+mindset" />
 </p>
 
 ---
