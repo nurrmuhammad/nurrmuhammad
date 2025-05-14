@@ -1,18 +1,13 @@
 ---
-<h1 align="center">👋 Hi there, I'm <strong>Nurmuhammad</strong></h1>
-<h3 align="center">💻 Backend Developer | Pythonista | Tech Explorer from Uzbekistan 🇺🇿</h3>
+<h1 align="center">👋 Assalomu alaykum, I'm <span style="color:#38BDF8;"><strong>Nurmuhammad</strong></span></h1>
+<h3 align="center">💻 Python Backend Developer | Django, FastAPI, Aiogram | Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+with+passion+for+clean+code;FastAPI+%7C+Django+%7C+Aiogram+%7C+PostgreSQL;Building+scalable+systems+one+line+at+a+time;Code.+Learn.+Repeat.+Grow.💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+from+Uzbekistan;Clean+Architecture+Fan+%F0%9F%93%9A;FastAPI+%7C+Django+%7C+Aiogram+%7C+PostgreSQL;Build%2C+Break%2C+Fix%2C+Learn%2C+Repeat+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="480" height="270" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" height="270" alt="coding developer gif" />
 </p>
 
 
