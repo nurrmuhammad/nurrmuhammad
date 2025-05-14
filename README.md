@@ -2,33 +2,32 @@
 <h3 align="center">🛠 Backend Developer · Python · FastAPI · Django</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Silent+but+Deadly+Code...;Think+in+Logic%2C+Build+in+Silence.;Clean+Code+or+No+Code.;Zero+Noise%2C+Full+Execution." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Silent+code.+Stable+systems.;FastAPI+%7C+Django+%7C+PostgreSQL.;Minimal+words,+maximum+execution.;Clean+Code+or+No+Code." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJWc/giphy.gif" width="480" height="280" alt="hacker terminal gif" />
+  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJWc/giphy.gif" width="480" height="270" alt="hacker dark terminal" />
 </p>
 
+---
+
+### 📌 About Me
+
+- 🧠 I build systems that are reliable and clear.
+- 🔒 I believe in clean code, structure, and silence.
+- 💻 Backend is not what users see — it's what works.
 
 ---
 
-### 📌 About
-
-- I write backend systems that work.
-- I prefer structure over hype.
-- Code is quiet. It should stay that way.
-- If it’s not clean, it’s not done.
-
----
-
-### 🛠 Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
 
 ---
@@ -44,8 +43,15 @@
 
 ### 🧭 Philosophy
 
-> “Talk less. Build more.”  
-> “Read the docs. Trust the logic.”  
-> “Work speaks. Let it.”
+> “Real devs don’t talk too much — their systems do.”  
+> “Silence is structure. Chaos is noise.”  
+> “chmod +x mindset”
 
 ---
+
+### 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:nurmuhammadov.nurik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/nur04_17"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
