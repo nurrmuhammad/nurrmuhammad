@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nurrmuhammad/nurrmuhammad/main/assets/pdp-dark-hacker.gif" alt="Nurmuhammad PDP Hacker Style" width="720"/>
+  <img src="https://raw.githubusercontent.com/nurrmuhammad/nurrmuhammad/main/assets/pdp-hacker-banner.gif" alt="Nurmuhammad PDP Hacker Style" width="720"/>
 </p>
 
 <h1 align="center">Nurmuhammad</h1>
